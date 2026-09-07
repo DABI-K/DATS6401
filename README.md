@@ -11,4 +11,4 @@
 
 ## Live Application
 The Streamlit app is deployed on Streamlit Community Cloud:  
-`[Paste your final .streamlit.app link here after deploying]`
+https://dats6401-6kemnbwi93wnvqghgx86kq.streamlit.app/
