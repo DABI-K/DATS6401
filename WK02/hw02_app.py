@@ -19,9 +19,9 @@ st.set_page_config(
 
 st.title("DATS 6401: Grammar of Graphics & Design Principles")
 st.caption(
-    "Assignment: Three Visual Encodings of One Underlying Question | IEA"
+    "HW02"
     " Global EV Data 2024"
-    "Eungdap Kim | HW02 | Fall 2026"
+    "Eungdap Kim | Fall 2026"
 )
 
 # -------------------------------------------------------------
